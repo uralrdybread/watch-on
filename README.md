@@ -1,3 +1,7 @@
+This project is a netflix/steaming clone. It utilizes APIs from https://www.themoviedb.org/ to accurately provide poster images, ratings, and other information about different kinds of movies. 
+
+This project was made so I could learn Angular animations and to test out Angular Prime which is basically a bootstrap type library. 
+
 # MoviesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
