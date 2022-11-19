@@ -4,6 +4,8 @@ This project is a netflix/steaming clone. It utilizes APIs from https://www.them
 
 This project was made so I could learn Angular animations and to test out Angular Prime which is basically a bootstrap type library. 
 
+![watchon2](https://user-images.githubusercontent.com/48900828/202840306-6370ab9e-9b70-453e-a168-515defd58934.PNG)
+
 # MoviesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
