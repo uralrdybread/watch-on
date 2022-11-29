@@ -1,3 +1,7 @@
+This project is a netflix/steaming clone. It utilizes APIs from https://www.themoviedb.org/ to accurately provide poster images, ratings, and other information about different kinds of movies.
+
+https://user-images.githubusercontent.com/48900828/202840255-f351557b-7d3e-4cb5-8459-d4d025f93a7a.PNG
+
 # MoviesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
