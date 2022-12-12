@@ -1,3 +1,5 @@
+https://watchon-81187.web.app/
+
 This project is a netflix/steaming clone. It utilizes APIs from https://www.themoviedb.org/ to accurately provide poster images, ratings, and other information about different kinds of movies.
 
 This project was made so I could learn Angular animations and to test out Angular Prime which is basically a bootstrap type library.
